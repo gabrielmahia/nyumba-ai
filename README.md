@@ -4,7 +4,7 @@
 
 Kenya's housing market is opaque, informal, and rife with fraud. 61% of urban Kenyans live in informal settlements. Land fraud costs Kenyans KES 10B+ annually. Nyumba AI provides land registry verification, rental market analysis, tenant rights information, and housing finance guidance — in plain Swahili.
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY-NC-ND%204.0-lightgrey.svg)]()
+[![License: MIT License](https://img.shields.io/badge/License-CC%20BY-NC-ND%204.0-lightgrey.svg)]()
 
 ## The Problem
 
