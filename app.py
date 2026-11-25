@@ -80,4 +80,4 @@ with tab4:
         st.markdown(f'<div class="n-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🏠 Nyumba AI v1.0 | Si ushauri wa kisheria | Ardhi: lands.go.ke | CC BY-NC-ND 4.0")
+st.caption("🏠 Nyumba AI v1.0 | Si ushauri wa kisheria | Ardhi: lands.go.ke | MIT")
